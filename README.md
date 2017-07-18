@@ -1,4 +1,4 @@
-##Clojure for Light Table
+# Clojure for Light Table
 
 The official Clojure(Script) language plugin for Light Table.
 
